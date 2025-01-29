@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **syed.mujtaba@edu.bme.hu**
 
-- ⚡ Fun fact **I trained a speech recognition model to understand Kashmiri before some of my relatives children could! 😂**
+- ⚡ Fun fact **I trained a speech recognition model to understand Kashmiri before some of my relatives could! 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
